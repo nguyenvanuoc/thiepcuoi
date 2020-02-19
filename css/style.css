@@ -983,6 +983,7 @@ body {
 }
 .content-frontend .time-box .date {
   font-size: 60px;
+  line-height: 60px;
   color: #b37e1e;
   font-family: "MonotypeCorsiva";
 }
@@ -1038,8 +1039,8 @@ body {
 }
 
 .avatar {
-  width: 200px;
-  height: 200px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   border: 5px solid #fff;
   box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
@@ -1077,7 +1078,7 @@ body {
   color: #b37e1e;
   font-family: "UTMViceroyJF";
   display: block;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   font-size: 30px;
 }
 .box-add .map {
